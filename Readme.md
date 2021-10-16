@@ -1,1 +1,1 @@
-Hello world
+A space to curate the stuff I come across to everyday.

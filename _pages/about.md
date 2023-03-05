@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: Me.jpg
   image_circular: false # crops the image to make it circular
   
 news: false  # includes a list of news items
@@ -18,7 +18,7 @@ Hello, there. I am a full-time software developer at Nagarro. My current role in
 
 During my time of undergraduate studies (2016-20), I gained valuable exposure to A.I. while working on a wide range of research projects and publishing my work in reputable academic journals. If you'd like to learn more, please head over to my Google Scholar profile.
 
-In my free-time, I try to read books, learn about new stuff (can be anything - astronomy, history, geopgraphy, philosophy, ..., anything.), watch random YouTube videos about existential crises (Kurzgesagt, I see you), or just go outside for a walk. I also love to discuss new ideas, so please feel free to connect with me through any medium you prefer. 
+In my free-time, I try to read books, learn about new stuff (can be anything - astronomy, history, geopgraphy, philosophy, ..., anything), or just go outside for a walk. I am also open to have conversations on new and thought-provoking ideas, so please feel free to connect with through any medium you prefer.
 
 Thanks for stopping by, and have a good one.
 
